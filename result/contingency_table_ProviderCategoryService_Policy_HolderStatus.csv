@@ -1,0 +1,11 @@
+ProviderCategoryService,Deceased,HomeDischarge,Missing,StillPatient,TransferHospital,TransferInstitution
+AllOther,54,226,244,427,219,69
+Ambulance,26,102,102,192,106,21
+GeneralPhysician,24,89,137,143,83,26
+HomeHealth,47,161,178,277,244,33
+LabRadiology,21,101,102,161,113,18
+MedicalEquipment,52,239,294,340,212,58
+OutpatientOther,45,208,196,304,221,45
+Oxygen,31,116,104,159,112,30
+PhysicianOther,136,475,503,730,480,120
+Podiatrist,14,79,93,137,153,30
